@@ -1,0 +1,8 @@
+# Python / UV
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+!.env.example
